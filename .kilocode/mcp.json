@@ -29,7 +29,8 @@
       "args": [
         "shadcn@latest",
         "mcp"
-      ]
+      ],
+      "alwaysAllow": []
     },
     "@magicuidesign/mcp": {
       "command": "npx",

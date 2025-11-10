@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Specification
+
+- shadcn add all component
+- drizzle sqlite
+- nextjs 16 server actions only (non api)
+
+## Component
+
+- [ ] sign in/up 
+- [ ] dashboard
+
 ## Getting Started
 
 First, run the development server:
